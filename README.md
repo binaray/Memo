@@ -4,7 +4,11 @@
 - [Setting up autostart applications](Docs/Autostart.md)
 - [Git and credentials](Docs/Git.md)
 
+## Python
+- Environment setup
+
 ## Docker
+- Cheatsheet
 
 ## Math
 - [Lerp](Docs/Lerp.md)
