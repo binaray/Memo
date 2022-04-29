@@ -4,6 +4,8 @@
 - [Setting up autostart applications](Docs/Autostart.md)
 - [Git and credentials](Docs/Git.md)
 
+## Docker
+
 ## Math
 - [Lerp](Docs/Lerp.md)
 - [Curve functions](Docs/CurveFunctions.md)
