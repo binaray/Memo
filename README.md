@@ -5,7 +5,7 @@
 - [Git and credentials](Docs/Git.md)
 
 ## Python
-- Environment setup
+- [Environment setup](Docs/PythonEnv.md)
 
 ## Docker
 - Cheatsheet
