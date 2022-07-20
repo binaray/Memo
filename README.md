@@ -1,13 +1,15 @@
 # Memo
 
-## Operating Systems, Workspaces
+## Operating Systems, Git Workspaces
 - [Setting up autostart applications](Docs/Autostart.md)
 - [Git and credentials](Docs/Git.md)
 
-## Python
+## Tools and Coding 
+[General Coding Conventions](Docs/CodingConventions.md)
+### Python
 - [Environment setup](Docs/PythonEnv.md)
 
-## Docker
+### Docker
 - Cheatsheet
 
 ## Math
