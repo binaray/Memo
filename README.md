@@ -12,6 +12,9 @@
 ### Docker
 - Cheatsheet
 
+### Visual Studio
+- [DLL compiling](DllCompilation.md)
+
 ## Math
 - [Lerp](Docs/Lerp.md)
 - [Curve functions](Docs/CurveFunctions.md)
