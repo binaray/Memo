@@ -2,6 +2,7 @@
 
 ## Operating Systems, Git Workspaces
 - [Setting up autostart applications](Docs/Autostart.md)
+- [Windows batch file examples](Docs/WindowsBatch.md)
 - [Git and credentials](Docs/Git.md)
 
 ## Tools and Coding 
