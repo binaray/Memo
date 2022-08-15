@@ -4,6 +4,8 @@
 - [Setting up autostart applications](Docs/Autostart.md)
 - [Windows batch file examples](Docs/WindowsBatch.md)
 - [Git and credentials](Docs/Git.md)
+- [SSH Key generation](Docs/SshKeygen.md)
+- [Linux process handling](Docs/LinuxProcesses.md)
 
 ## Tools and Coding 
 [General Coding Conventions](Docs/CodingConventions.md)
