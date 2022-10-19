@@ -1,6 +1,12 @@
 # Git
 Cheatsheet and quick setup commands
 
+## Cloning/Committing using PA token
+Set the git url to the following:
+```
+https://<your_token>@github.com/username/repo.git
+```
+
 ## First setup
 ```
 ```
