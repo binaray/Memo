@@ -18,7 +18,14 @@
 ### Visual Studio
 - [DLL compiling](DllCompilation.md)
 
-## Math
+###
+- Unity 
+Oculus VR Compilation
+1. Make sure Android & Java SDK is installed
+2. In package manager install Oculus Integration and then OpenXR Integration.
+
+
+## Math Functions
 - [Lerp](Docs/Lerp.md)
 - [Curve functions](Docs/CurveFunctions.md)
 
