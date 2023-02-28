@@ -1,0 +1,1 @@
+start /max C:\Users\Admin\Desktop\Firework_win\Fireworks.exe
