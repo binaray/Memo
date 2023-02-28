@@ -1,0 +1,2 @@
+start /min "cv" cmd /c "C:/Users/Admin/anaconda3/Scripts/activate.bat base & cd C:\Users\Admin\Desktop\UnityPythonCommunications\PythonFiles & python main_multi.py"
+start /max C:\Users\Admin\Desktop\Firework_win\Fireworks.exe
