@@ -13,7 +13,7 @@
 - [Environment setup](Docs/PythonEnv.md)
 
 ### Docker
-- Cheatsheet
+- [Cheatsheet](Docs/DockerCheatsheet.md)
 
 ### Visual Studio
 - [DLL compiling](DllCompilation.md)
