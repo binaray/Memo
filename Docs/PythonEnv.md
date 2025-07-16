@@ -7,6 +7,9 @@ conda update --all
 conda install -c anaconda opencv
 pip install imutils
 pip install pyzmq
+
+# for kernel switching in jupyter
+conda install ipykernel
 ```
 
 Reference: https://docs.openvino.ai/latest/openvino_docs_install_guides_installing_openvino_conda.html
